@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: modele
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: damaro
+Implementation-Vendor-Id: fr.soro
+Build-Jdk: 1.8.0_272
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/p7_bibliotheque/modele
+Created-By: Maven Integration for Eclipse
+
